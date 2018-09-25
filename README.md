@@ -1,2 +1,1 @@
-# dev_portfolio
-Create project 
+npm i -g create-react-app
